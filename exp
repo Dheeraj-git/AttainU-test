@@ -1,0 +1,5 @@
+<form>
+  First name:
+  <input type="inside" ="firstname">
+  <input type="text" ="lasname">
+</form>
